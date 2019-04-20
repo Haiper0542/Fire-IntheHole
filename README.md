@@ -20,6 +20,10 @@
 + **아이템**
   + 회복 키트 : 소량의 체력을 회복합니다.
   + 가스통 : 화염방사기를 사용하는데 필요한 가스게이지를 회복합니다.
+    
+### 시연 영상
+* [https://youtu.be/6dObfeXpdcI](https://youtu.be/6dObfeXpdcI) <br>
+
 ### 게임 화면
 * **게임의 메인화면입니다. 인게임에서의 닉네임을 입력할 수 있습니다.**
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56102123-ac62c300-5f65-11e9-8b03-c39e0627c82c.png></img>
