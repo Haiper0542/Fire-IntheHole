@@ -26,4 +26,14 @@
 
 ### 게임 화면
 * **게임의 메인화면입니다. 인게임에서의 닉네임을 입력할 수 있습니다.**
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56102123-ac62c300-5f65-11e9-8b03-c39e0627c82c.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449617-10ff9280-6357-11e9-874d-9f3c27a28637.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449618-1230bf80-6357-11e9-9713-f3821dfbc94f.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449619-1361ec80-6357-11e9-9c97-ee58e2ef5246.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449620-13fa8300-6357-11e9-99ef-fd7c5f7ae1a3.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449621-14931980-6357-11e9-881e-58fa378e9d62.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449625-15c44680-6357-11e9-8b00-7ef2b548e4bd.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449626-16f57380-6357-11e9-813b-864cc49cf10f.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449627-178e0a00-6357-11e9-8921-1c809f67f27f.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449629-1826a080-6357-11e9-9e6f-153538d969ea.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449631-18bf3700-6357-11e9-9579-081e46ee6ece.png></img>
+<img width="30%" src=https://user-images.githubusercontent.com/40797534/56449632-1957cd80-6357-11e9-8882-7da594a85f87.png></img>
